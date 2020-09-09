@@ -1,0 +1,14 @@
+True,test,t.*
+True,test,test
+False,foofoo,foo
+False,foo,foofoo
+True,,t*
+True,bar,...
+False,bar,....
+False,bar,..
+False,barfoobar,fooF
+False,barfobar,foo
+True,eet,e*et
+True,dddd,dd*dd*
+True,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,aa*aa*aa*aa*
+False,ddd,d*ddddd
